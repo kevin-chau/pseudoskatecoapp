@@ -49,3 +49,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rails-observers', github: 'rails/rails-observers'
 gem 'activeresource', github: 'rails/activeresource'
 gem 'shopify_api'
+gem 'shopify_app'
